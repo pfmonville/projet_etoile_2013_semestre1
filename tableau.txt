@@ -1,0 +1,18 @@
+            A            
+           A A           
+          A A A          
+         A A A A         
+B B B B - - - - - F F F F
+ B B B - - - - - - F F F 
+  B B - - - - - - - F F  
+   B - - - - - - - - F   
+    - - - - - - - - -    
+   C - - - - - - - - E   
+  C C - - - - - - - E E  
+ C C C - - - - - - E E E 
+C C C C - - - - - E E E E
+         D D D D         
+          D D D          
+           D D           
+            D            
+                         
